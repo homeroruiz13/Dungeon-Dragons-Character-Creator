@@ -1,9 +1,4 @@
-/******************************************************************************
-Spring 2024 Programming Foundations I
-Author: STUDENT NAME
-Date: April ???, 2024
-Purpose: Define the Character class
-*******************************************************************************/
+
 
 #ifndef CHARACTER_H
 #define CHARACTER_H
