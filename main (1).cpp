@@ -1,8 +1,7 @@
 
 /******************************************************************************
-Spring 2024 Programming Foundations I
-Author: STUDENT NAME
-Date: April ???, 2024
+Author: Homero Ruiz
+Date: April 20, 2024
 Purpose: Make a character creator using the Character class
 *******************************************************************************/
 
