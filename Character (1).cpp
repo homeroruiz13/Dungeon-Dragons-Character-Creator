@@ -1,9 +1,4 @@
-/******************************************************************************
-Spring 2024 Programming Foundations I
-Author: STUDENT NAME
-Date: April ???, 2024
-Purpose: Implement the Character class
-*******************************************************************************/
+
 
 #include "Character.h"
 
